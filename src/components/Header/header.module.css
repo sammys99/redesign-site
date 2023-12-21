@@ -1,0 +1,33 @@
+/* Header.module.css */
+.header {
+    background-color: #C0CAB1;
+    color: white;
+    padding: 1rem;
+  }
+  
+  /*.nav {
+     Estilos para la navegación si son necesarios 
+  }*/
+  
+  .navList {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  /*.navItem {
+     Estilos para los elementos de la lista si son necesarios 
+  }*/
+  
+  .navLink {
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    display: block;
+  }
+  
+  .navLink:hover {
+    background-color: #555;
+  }
+  
