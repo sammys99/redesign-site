@@ -30,6 +30,9 @@
   }
   
   .navLink:hover {
-    background-color: white;
+    text-decoration: underline; /* Esto subrayará el texto */
+    text-decoration-color: #000; /* Cambia #000 por el color que prefieras */
+    text-decoration-thickness: 2px; /* Ajusta el grosor de la línea */
   }
+  
   
