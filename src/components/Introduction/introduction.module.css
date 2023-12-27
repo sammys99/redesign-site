@@ -10,9 +10,17 @@
 .prhase{
     font-size: 1.5rem;
     font-weight: 500;
-    margin:  0;;
+    margin: 0;
 }
 .intro{
     display: flex;
+    margin: 2rem;   
+}
+
+.village{
+    width: 60rem;
+}
+.text{
     margin: 2rem;
+    padding-left: 1rem;
 }

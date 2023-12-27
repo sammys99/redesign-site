@@ -13,7 +13,7 @@ return(
   <p className={styles.prhase}>Crafting Digital Experiences: <br/> Where Design Meets Code <br/>and Imagination Comes to Life </p>
   </div>
   
-  <img src={myImg} alt="Village img" />
+  <img src={myImg} className={styles.village}   alt="Village img" />
 
   </div>
 
